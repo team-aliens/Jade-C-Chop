@@ -16,6 +16,7 @@
 		57A6504F27FA6F08004391A3 /* Small_DMSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A6504E27FA6F08004391A3 /* Small_DMSTests.swift */; };
 		57A6505927FA6F08004391A3 /* Small_DMSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A6505827FA6F08004391A3 /* Small_DMSUITests.swift */; };
 		57A6505B27FA6F08004391A3 /* Small_DMSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A6505A27FA6F08004391A3 /* Small_DMSUITestsLaunchTests.swift */; };
+		57A6506827FA6F88004391A3 /* FoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A6506727FA6F88004391A3 /* FoodModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		57A6505427FA6F08004391A3 /* Small-DMSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Small-DMSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57A6505827FA6F08004391A3 /* Small_DMSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Small_DMSUITests.swift; sourceTree = "<group>"; };
 		57A6505A27FA6F08004391A3 /* Small_DMSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Small_DMSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		57A6506727FA6F88004391A3 /* FoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				57A6503727FA6F07004391A3 /* AppDelegate.swift */,
 				57A6503927FA6F07004391A3 /* SceneDelegate.swift */,
 				57A6503B27FA6F07004391A3 /* ViewController.swift */,
+				57A6506727FA6F88004391A3 /* FoodModel.swift */,
 				57A6503D27FA6F07004391A3 /* Main.storyboard */,
 				57A6504027FA6F08004391A3 /* Assets.xcassets */,
 				57A6504227FA6F08004391A3 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				57A6503C27FA6F07004391A3 /* ViewController.swift in Sources */,
 				57A6503827FA6F07004391A3 /* AppDelegate.swift in Sources */,
 				57A6503A27FA6F07004391A3 /* SceneDelegate.swift in Sources */,
+				57A6506827FA6F88004391A3 /* FoodModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
