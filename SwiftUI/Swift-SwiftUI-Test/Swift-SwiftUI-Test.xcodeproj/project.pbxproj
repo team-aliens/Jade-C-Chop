@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		57A3382827FD4D70005B14C0 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57A3382727FD4D70005B14C0 /* MapView.swift */; };
 		57F0616927F9DD9E007F76F9 /* Swift_SwiftUI_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F0616827F9DD9E007F76F9 /* Swift_SwiftUI_TestApp.swift */; };
 		57F0616B27F9DD9E007F76F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F0616A27F9DD9E007F76F9 /* ContentView.swift */; };
 		57F0616D27F9DD9E007F76F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57F0616C27F9DD9E007F76F9 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		57A3382727FD4D70005B14C0 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		57F0616527F9DD9E007F76F9 /* Swift-SwiftUI-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-SwiftUI-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		57F0616827F9DD9E007F76F9 /* Swift_SwiftUI_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_SwiftUI_TestApp.swift; sourceTree = "<group>"; };
 		57F0616A27F9DD9E007F76F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				57F0616827F9DD9E007F76F9 /* Swift_SwiftUI_TestApp.swift */,
 				57F0616A27F9DD9E007F76F9 /* ContentView.swift */,
+				57A3382727FD4D70005B14C0 /* MapView.swift */,
 				57F0616C27F9DD9E007F76F9 /* Assets.xcassets */,
 				57F0616E27F9DD9E007F76F9 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57F0616B27F9DD9E007F76F9 /* ContentView.swift in Sources */,
+				57A3382827FD4D70005B14C0 /* MapView.swift in Sources */,
 				57F0616927F9DD9E007F76F9 /* Swift_SwiftUI_TestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
